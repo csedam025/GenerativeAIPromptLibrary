@@ -103,7 +103,7 @@ A simple way to do this would be:
 
     1.) Open a new session with any GenAI service chatbot. (ChatGPT, Gemini, Claude, etc.)
     
-    2.) Upload the role file into the chatbot if supported, ortherwise copy/paste the text into it.
+    2.) Upload the role file into the chatbot if supported, otherwise copy/paste the text into it.
     
     3.) Start asking it to generate prompts to accomplish a task.
 
